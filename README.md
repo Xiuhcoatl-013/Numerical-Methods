@@ -34,7 +34,7 @@
     - [Markdown](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/jupyter/markdown.ipynb)
     - [Notebook](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/jupyter/notebook.ipynb)
   - [Python](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python)
-    - [Vartiables](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/vartiables.ipynb)
+    - [Variables](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/variables.ipynb)
     - [Numbers](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/numbers.ipynb)
     - [Logic](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/logic.ipynb)
     - [Sequences](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/sequences.ipynb)
