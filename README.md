@@ -1,4 +1,4 @@
-# Numerical-Methods [Real Time and Embedded Systems Programming] 12
+# Numerical-Methods [Real Time and Embedded Systems Programming]
 
 
 
@@ -28,12 +28,12 @@
 
 ## [Contents](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Generalities__
-  - [Introduction](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/Introduction/Introduction.ipynb)
-  - Jupyter
+  - [Introduction](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/introduction/introduction.ipynb)
+  - [Jupyter](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/jupyter)
     - [Latex](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/jupyter/latex.ipynb)
     - [Markdown](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/jupyter/markdown.ipynb)
     - [Notebook](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/jupyter/notebook.ipynb)
-  - Python
+  - [Python](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python)
     - [Vartiables](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/vartiables.ipynb)
     - [Numbers](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/numbers.ipynb)
     - [Logic](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/logic.ipynb)
@@ -42,7 +42,7 @@
     - [Text](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/text.ipynb)
     - [Functions](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/functions.ipynb)
     - [Packages](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python/packages.ipynb)
-  - Python Packages
+  - [Python Packages](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages)
     - [NumPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/numpy.ipynb)
     - [SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/scipy.ipynb)
     - [MatPlotLib](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/matplotlib.ipynb)
@@ -76,4 +76,4 @@
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   
   
-<img src="master/Introduction/images/tangle_cube.jpg" width="500px" height="auto"> 
+<img src="introduction/images/tangle_cube.jpg" width="500px" height="auto"> 
