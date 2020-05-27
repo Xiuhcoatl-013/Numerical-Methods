@@ -1,6 +1,14 @@
 # Numerical-Methods [Real Time and Embedded Systems Programming]
 
-<img src="introduction/images/tangle_cube.jpg" width="500px" height="auto"> 
+
+
+
+
+<img src="tangle_cube.jpg" width="500px" height="auto"> 
+
+
+
+
 
 <p> Introduction to mathematical computing including:</p>
 <ul>
@@ -9,6 +17,8 @@
 <li>Scientific computing with <a href="http://www.numpy.org">NumPy</a>, <a href="https://scipy.org">SciPy</a> and <a href="https://matplotlib.org">Matplotlib</a></li>
 <li>Applications in calculus, linear algebra and differential equations</li>
 </ul>
+
+
 
 <h2 id="prerequisites">Prerequisites</h2>
 <p>Aassuming the reader has completed undergraduate courses in:</p>
