@@ -57,13 +57,16 @@
     - [SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/scipy.ipynb)
     - [MatPlotLib](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/matplotlib.ipynb)
 - __Linear Algebra__
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)  
+  - [Linear_Algebra with SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/linear_algebra_scipy.ipynb)
+  - [Solving_Linear_Systems](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/solving_linear_systems.ipynb)
+  - [Eigenvalues_Eigenvectors](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/eigenvalues_eigenvectors.ipynb)
+  - [Applications](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/applications.ipynb)
 - __Calculus__
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Differentiation](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/differentiation/differentiation.ipynb)
+  - [Integrals](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/integrals.ipynb)
+  - [Riemann Sums](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/riemann-sums.ipynb)
+  - [Trapezoid Rule](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/trapezoid-rule.ipynb)
+  - [Simpsons Rule](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/simpsons-rule.ipynb)  
 - __Differential Equations__
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
