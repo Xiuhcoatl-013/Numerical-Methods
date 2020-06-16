@@ -87,8 +87,15 @@
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  
-- __Miscellaneous Code Snippets__
-  - [Pandas and Data Management](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/miscellaneous_code_snippets/manejo_datos_pandas.ipynb)  
-  - [Historical Manipulations and Downlowds](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/descarga_manipulacion_historicos.ipynb)
+
+
+- __Apendix__
+  - __A__
+    - __Miscellaneous Code Snippets__
+      - [Pandas and Data Management](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/miscellaneous_code_snippets/manejo_datos_pandas.ipynb)  
+      - [Historical Manipulations and Downlowds](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/miscellaneous_code_snippets/descarga_manipulacion_historicos.ipynb)
+  - __B__
+    - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - __C__
+    - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 
