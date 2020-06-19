@@ -67,6 +67,7 @@
   - [Riemann Sums](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/riemann-sums.ipynb)
   - [Trapezoid Rule](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/trapezoid-rule.ipynb)
   - [Simpsons Rule](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/simpsons-rule.ipynb)  
+  - [Monte Carlo Integration](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/XXX.ipynb)  
 - __Differential Equations__
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
@@ -97,5 +98,6 @@
   - __B__
     - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - __C__
+    - __Matrix Calculus__
     - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 
