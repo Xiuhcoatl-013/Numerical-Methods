@@ -36,7 +36,7 @@
 
 
 
-## [Contents]
+## [Contents](https://)
 - __Generalities__
   - [Introduction](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/introduction/introduction.ipynb)
   - [Jupyter](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/jupyter)
@@ -133,7 +133,7 @@
 
 
 
-## [Apendix](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+## [Apendix](https://github.com/Xiuhcoatl-013)
   - __A__
     - __Miscellaneous Code Snippets__
       - [Pandas and Data Management](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/miscellaneous_code_snippets/manejo_datos_pandas.ipynb)  
@@ -144,10 +144,10 @@
     - __Matrix Calculus__
       - [Matrix Differentiation Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods)
       - [Matrix Integration Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-      - [Automatic Code Generation for Matrix Calculus](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-        - [Differenciators](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-        - [Integrators](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-        - [PDES](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+      - [Automatic Code Generator (ACG) for Matrix Calculus](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+        - [ACG for Differenciators](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+        - [ACG for Integrators](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+        - [ACG for PDE's Solvers](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - __D__
   - __E__
   - __F__
