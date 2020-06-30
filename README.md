@@ -73,7 +73,7 @@
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)  
   - __Applications__
     - __Audio__
-      - [Karplus Strong Algorithm](https://github.com/Xiuhcoatl-013/Numerical-Methods/karplus_strong_algorithm.ipynb)
+      - [Karplus Strong Algorithm](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/karplus_strong_algorithm/karplus_strong_algorithm.ipynb)
 - __Vector Calculus__
   - [Partial derivatives](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [Gradient and directional derivatives](https://github.com/Xiuhcoatl-013/Numerical-Methods)
