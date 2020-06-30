@@ -63,6 +63,9 @@
   - [Applications](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/applications.ipynb)
 - __Geometry__
   - [Under Construction ...](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Calculus__
   - [Differentiation](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/differentiation/differentiation.ipynb)
   - [Integrals](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/integrals.ipynb)
@@ -104,7 +107,7 @@
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
--__Spectral Analysis on Finite Groups (Signal Processing)__
+- __Spectral Analysis on Finite Groups (Signal Processing)__
   - [Fourier Analysis](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [Wavelet Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [:(](https://github.com/Xiuhcoatl-013/Numerical-Methods)
@@ -129,7 +132,7 @@
     - __X X X__
 
 
-<p></p>
+#####
 - __Apendix__
   - __A__
     - __Miscellaneous Code Snippets__
