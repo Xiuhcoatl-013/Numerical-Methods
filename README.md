@@ -70,8 +70,10 @@
   - [Monte Carlo Integration](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/XXX.ipynb)  
 - __Differential Equations__
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)  
+  - __Applications__
+    - __Audio__
+      - [Karplus Strong Algorithm](https://github.com/Xiuhcoatl-013/Numerical-Methods/karplus_strong_algorithm.ipynb)
 - __Vector Calculus__
   - [Partial derivatives](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [Gradient and directional derivatives](https://github.com/Xiuhcoatl-013/Numerical-Methods)
