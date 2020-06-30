@@ -61,19 +61,18 @@
   - [Solving_Linear_Systems](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/solving_linear_systems.ipynb)
   - [Eigenvalues_Eigenvectors](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/eigenvalues_eigenvectors.ipynb)
   - [Applications](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/applications.ipynb)
+- __Geometry__
+  - [Under Construction ...](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Calculus__
   - [Differentiation](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/differentiation/differentiation.ipynb)
   - [Integrals](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/integrals.ipynb)
   - [Riemann Sums](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/riemann-sums.ipynb)
   - [Trapezoid Rule](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/trapezoid-rule.ipynb)
   - [Simpsons Rule](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/simpsons-rule.ipynb)  
-  - [Monte Carlo Integration](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/XXX.ipynb)  
-- __Differential Equations__
+  - [Monte Carlo Integration](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/integration/XXX.ipynb)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)  
-  - __Applications__
-    - __Audio__
-      - [Karplus Strong Algorithm](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/karplus_strong_algorithm/karplus_strong_algorithm.ipynb)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Vector Calculus__
   - [Partial derivatives](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [Gradient and directional derivatives](https://github.com/Xiuhcoatl-013/Numerical-Methods)
@@ -82,24 +81,73 @@
   - [Laplacian](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [Jacobian](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [Hessian](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Complex Variable__
+  - [Introduction](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Line Integrals](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Functions of a Complex Variable](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [The Cauchy-Riemann Equations and Analytic Functions](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Green’s Integral Theorem](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Cauchy’s First Integral Theorem](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Cauchy’s Second Integral Theorem](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Singularities and the Residue Theorem](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Singularities and the Residue Theorem](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Integrals with Multi-valued Integrands](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Something Else ...(according last IAES; it is not enough...)](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Challenge Problems](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Statistics__
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+-__Spectral Analysis on Finite Groups (Signal Processing)__
+  - [Fourier Analysis](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Wavelet Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [:(](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+- __Differential Equations__
+  - [Ordinary Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [Partial Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - __Applications__
+    - __Wave Field Synthesis (Audio)__
+      - [Real Time Audio Processing](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+      - [Karplus Strong Algorithm](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/karplus_strong_algorithm/karplus_strong_algorithm.ipynb)
+      - [Holophony (3D Audio)](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/karplus_strong_algorithm/karplus_strong_algorithm.ipynb)
+    - __3D Computer Graphycs__  
+      - [Physical Based Rendering](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+    - __X X X__
+    - __X X X__
+    - __X X X__
 
 
+<p></p>
 - __Apendix__
   - __A__
     - __Miscellaneous Code Snippets__
       - [Pandas and Data Management](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/miscellaneous_code_snippets/manejo_datos_pandas.ipynb)  
       - [Historical Manipulations and Downlowds](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/miscellaneous_code_snippets/descarga_manipulacion_historicos.ipynb)
   - __B__
-    - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+    - [SOME UNDER CONSTRUCTION...](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - __C__
     - __Matrix Calculus__
-    - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+      - [Matrix Differentiation Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+      - [Matrix Integration Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+      - [Automatic Code Generation for Matrix Calculus](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+        - [Differenciators](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+        - [Integrators](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+        - [PDES](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - __D__
+  - __E__
+  - __F__
+  - __H__
+      
 
