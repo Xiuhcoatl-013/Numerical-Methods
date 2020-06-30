@@ -36,7 +36,7 @@
 
 
 
-## [Contents](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+## [Contents]
 - __Generalities__
   - [Introduction](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/introduction/introduction.ipynb)
   - [Jupyter](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/jupyter)
@@ -132,10 +132,8 @@
     - __X X X__
 
 
-#####
-#####
-#####
-- __Apendix__
+
+## [Apendix](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - __A__
     - __Miscellaneous Code Snippets__
       - [Pandas and Data Management](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/miscellaneous_code_snippets/manejo_datos_pandas.ipynb)  
