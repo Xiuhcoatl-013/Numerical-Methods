@@ -124,7 +124,8 @@
     - __Wave Field Synthesis (Audio)__
       - [Real Time Audio Processing](https://github.com/Xiuhcoatl-013/Numerical-Methods)
       - [Karplus Strong Algorithm](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/karplus_strong_algorithm/karplus_strong_algorithm.ipynb)
-      - [Holophony (3D Audio)](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/karplus_strong_algorithm/karplus_strong_algorithm.ipynb)
+      - [Digital Waveguides](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/karplus_strong_algorithm/karplus_strong_algorithm.ipynb)      
+      - [Holophony (3D Audio)](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/digital_waveguides/digital_waveguides.ipynb)
     - __3D Computer Graphycs__  
       - [Physical Based Rendering](https://github.com/Xiuhcoatl-013/Numerical-Methods)
     - __X X X__
