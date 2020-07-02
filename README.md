@@ -56,6 +56,8 @@
     - [NumPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/numpy.ipynb)
     - [SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/scipy.ipynb)
     - [MatPlotLib](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/matplotlib.ipynb)
+- __Combinatories__
+  - [||](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Linear Algebra__
   - [Linear_Algebra with SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/linear_algebra_scipy.ipynb)
   - [Solving_Linear_Systems](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/solving_linear_systems.ipynb)
@@ -107,10 +109,9 @@
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-- __Spectral Analysis on Finite Groups (Signal Processing)__
+- __Functional Ananlysis Applications__
   - [Fourier Analysis](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [Wavelet Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [:(](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
@@ -134,7 +135,7 @@
 
 
 
-## [Apendix](https://github.com/Xiuhcoatl-013)
+## [Apendix](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/trigonometrical_integrals_sequence/trigonometrical_integrals_sequence.ipynb)
   - __A__
     - __Miscellaneous Code Snippets__
       - [Pandas and Data Management](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/miscellaneous_code_snippets/manejo_datos_pandas.ipynb)  
