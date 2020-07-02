@@ -57,7 +57,9 @@
     - [SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/scipy.ipynb)
     - [MatPlotLib](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/python_packages/matplotlib.ipynb)
 - __Combinatories__
-  - [||](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [  | | ](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [ > ''<](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - [[     ]](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Linear Algebra__
   - [Linear_Algebra with SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/linear_algebra_scipy.ipynb)
   - [Solving_Linear_Systems](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/linear_algebra/solving_linear_systems.ipynb)
