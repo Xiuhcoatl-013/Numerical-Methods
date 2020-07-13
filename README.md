@@ -112,7 +112,7 @@
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Differential Equations__
-  - [Ordinary Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods/differential_equations/solving_ordinary_differential_equations.ipynb)
+  - [Ordinary Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/differential_equations/solving_ordinary_differential_equations.ipynb)
   - [Partial Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
@@ -152,7 +152,7 @@
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - __D__
     - __Functional Ananlysis Applications__
-        - [Introduction](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/functional_analysis/introduction) Under Construction ... 
+        - [Introduction](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/functional_analysis/introduction.ipynb) Under Construction ... 
         - [Fourier Analysis](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
         - [Wavelet Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
@@ -164,6 +164,6 @@
 
 
 
-## [Portfolio](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/portfolio/portfolio)
+## [Portfolio](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/portfolio/portfolio.ipynb)
 
 
