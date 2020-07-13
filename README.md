@@ -138,7 +138,7 @@
       - [Historical Manipulations and Downlowds](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/miscellaneous_code_snippets/descarga_manipulacion_historicos.ipynb)
   - __B__
     - __Encryption__
-      - [Aes Encryption](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/aes)
+      - [AES Encryption](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/aes)
   - __C__
     - __Matrix Calculus__
       - [Matrix Differentiation Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
