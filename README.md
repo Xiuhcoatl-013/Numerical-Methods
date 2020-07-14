@@ -121,6 +121,8 @@
     - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
     - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
     - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - __Slope Fields__
+    - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - __Applications__
     - __Wave Field Synthesis (Audio)__
       - [Real Time Audio Processing](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
