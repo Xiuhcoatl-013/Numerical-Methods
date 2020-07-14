@@ -112,11 +112,15 @@
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
 - __Differential Equations__
-  - [Ordinary Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/differential_equations/solving_ordinary_differential_equations.ipynb)
-  - [Partial Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - __Ordinary Differential Equations__
+    - [Solving Ordinary Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/differential_equations/solving_ordinary_differential_equations.ipynb)
+    - [Population Growth](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/differential_equations/population_growth.ipynb)
+    - [Spreading of Diseases](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/differential_equations/spreading_of_diseases.ipynb) Under Construction ...
+  - __Partial Differential Equations__  
+    - [Partial Differential Equations](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
+    - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+    - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+    - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - __Applications__
     - __Wave Field Synthesis (Audio)__
       - [Real Time Audio Processing](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
@@ -137,9 +141,12 @@
       - [Pandas and Data Management](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/miscellaneous_code_snippets/manejo_datos_pandas.ipynb)  
       - [Historical Manipulations and Downlowds](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/miscellaneous_code_snippets/descarga_manipulacion_historicos.ipynb)
   - __B__
+    - __Algorithm Time Complexity Analysis and The Big-O Notation__
+      - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+  - __C__
     - __Encryption__
       - [AES Encryption](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/aes)
-  - __C__
+  - __D__
     - __Matrix Calculus__
       - [Matrix Differentiation Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
       - [Matrix Integration Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
@@ -150,7 +157,7 @@
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - __D__
+  - __E__
     - __Functional Ananlysis Applications__
         - [Introduction](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/functional_analysis/introduction.ipynb)
         - [Fourier Analysis](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
@@ -158,8 +165,8 @@
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
-  - __E__
   - __F__
+  - __G__
   - __H__
 
 
