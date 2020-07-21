@@ -56,6 +56,8 @@
     - [NumPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/python_packages/numpy.ipynb)
     - [SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/python_packages/scipy.ipynb)
     - [MatPlotLib](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/python_packages/matplotlib.ipynb)
+    
+### Part 1. Mathematics    
 - __Combinatorics__
   - ['  |_|](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [ > ''<](https://github.com/Xiuhcoatl-013/Numerical-Methods)
@@ -135,7 +137,10 @@
     - __X X X__
     - __X X X__
 
-
+### [Part 2. Artificial Inteligence](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/a_i)
+- __Machine Learning__
+  - __Ordinary Differential Equations__
+    - [Deep Neural Learning](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/)
 
 ## [Apendix](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/trigonometrical_integrals_sequence/trigonometrical_integrals_sequence.ipynb)
   - __A__
@@ -145,6 +150,7 @@
   - __B__
     - __Algorithm Time Complexity Analysis and The Big-O Notation__
       - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
+      - [Numerical Optimization Management for Embedded Systems](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/numerical_optimization_management_for_embedded_systems/numerical_management.pptx)
   - __C__
     - __Encryption__
       - [AES Encryption](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/aes)
