@@ -141,7 +141,7 @@
 - __A. I.__
   - __Machine Learning__
     - __Deep Neural Learning__
-      - [Artificial Neural Networks](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/)
+      - [Artificial Neural Networks](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/a_i) Under construction...
 
 ## [Apendix](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/trigonometrical_integrals_sequence/trigonometrical_integrals_sequence.ipynb)
   - __A__
