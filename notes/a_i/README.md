@@ -4,7 +4,7 @@
 
 
 
-<img src="figures/artificial_intelligence.jpg" width="500px" height="auto"> 
+<img src="images/artificial_intelligence.jpg" width="500px" height="auto"> 
 
 
 
