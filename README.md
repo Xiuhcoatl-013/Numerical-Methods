@@ -57,7 +57,7 @@
     - [SciPy](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/python_packages/scipy.ipynb)
     - [MatPlotLib](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/python_packages/matplotlib.ipynb)
     
-### Part 1. Mathematics    
+### [Part 1. Mathematics]()    
 - __Combinatorics__
   - ['  |_|](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - [ > ''<](https://github.com/Xiuhcoatl-013/Numerical-Methods)
@@ -140,7 +140,8 @@
 ### [Part 2. Artificial Inteligence](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/a_i)
 - __Machine Learning__
   - __Ordinary Differential Equations__
-    - [Deep Neural Learning](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/)
+    - __Deep Neural Learning__
+      -[Artificial Neural Networks](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/)
 
 ## [Apendix](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/trigonometrical_integrals_sequence/trigonometrical_integrals_sequence.ipynb)
   - __A__
