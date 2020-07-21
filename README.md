@@ -138,10 +138,10 @@
     - __X X X__
 
 ### [Part 2. Artificial Inteligence](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/a_i)
-- __Machine Learning__
-  - __Ordinary Differential Equations__
+- __A. I.__
+  - __Machine Learning__
     - __Deep Neural Learning__
-      -[Artificial Neural Networks](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/)
+      - [Artificial Neural Networks](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/)
 
 ## [Apendix](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/trigonometrical_integrals_sequence/trigonometrical_integrals_sequence.ipynb)
   - __A__
