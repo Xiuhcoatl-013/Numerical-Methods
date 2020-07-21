@@ -166,7 +166,7 @@
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
         - [](https://github.com/Xiuhcoatl-013/Numerical-Methods)
   - __E__
-    - __Functional Ananlysis Applications__
+    - [Functional Ananlysis Applications](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/functional_analysis)
         - [Functional Ananlysis](https://github.com/Xiuhcoatl-013/Numerical-Methods/blob/master/notes/functional_analysis/functional_analysis.ipynb)
         - [Fourier Analysis](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
         - [Wavelet Theory](https://github.com/Xiuhcoatl-013/Numerical-Methods) Under Construction ...
