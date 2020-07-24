@@ -4,7 +4,7 @@
 
 
 
-<img src="tangle_cube.jpg" width="500px" height="auto"> 
+<img src="800px-M-theory.svg.png" width="500px" height="auto"> 
 
 
 
