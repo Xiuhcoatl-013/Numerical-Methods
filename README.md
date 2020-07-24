@@ -4,7 +4,7 @@
 
 
 
-<img src="800px-M-theory.svg.png" width="500px" height="auto"> 
+<img src="800px_M-theory.png" width="500px" height="auto"> 
 
 
 
